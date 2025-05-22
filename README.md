@@ -1,6 +1,6 @@
-# 🌟 Interactive Guide: Disk Scheduling Algorithm Visualizer 🌟
+# 🌟 Disk Scheduling Algorithm Visualizer 🌟
 
-Explore how disk scheduling algorithms work in real-time! Here's how to interact with this tool:
+This Python application, "Disk Scheduling," provides a comprehensive tool for visualizing and comparing various disk scheduling algorithms. Developed with `tkinter` for the GUI and `matplotlib` for dynamic visualizations, it allows users to experiment with different algorithms and understand their performance in terms of seek time. Here's how to interact with this tool:
 
 ---
 
@@ -80,5 +80,3 @@ Explore how disk scheduling algorithms work in real-time! Here's how to interact
 
 **🔗 GET STARTED NOW**  
 Clone the code, run `OS_PROJECT.py`, and start optimizing virtual disk arms like a pro! 🖥️  
-
-*Curious about a specific feature? Ask the app’s AI assistant (if enabled) or tweak the code to add new algorithms!*
