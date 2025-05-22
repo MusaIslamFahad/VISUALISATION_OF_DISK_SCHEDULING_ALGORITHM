@@ -64,9 +64,19 @@ This Python application, "Disk Scheduling," provides a comprehensive tool for vi
 
 ---
 
-**⚙️ TECHNICAL NOTES**  
-- **Install Dependencies**: Run `pip install matplotlib numpy pyttsx3 gTTS fpdf Pillow` if you haven’t.  
-- **OS Compatibility**: Works best on Windows/macOS with Python 3.7+.  
+**⚙️ TECHNICAL NOTES** 
+1. **Requirements:**
+   -  `Python 3.7+`
+   - `tkinter (usually bundled with Python)`
+   - `matplotlib`
+   -`numpy`
+   - `pyttsx3`
+   - `gTTS`
+   - `fpdf`
+   - `Pillow (for matplotlib integration with tkinter if issues arise)`
+  
+2. **Install Dependencies**: Run `pip install matplotlib numpy pyttsx3 gTTS fpdf Pillow` if you haven’t.  
+3. **OS Compatibility**: Works best on Windows/macOS with Python 3.7+.  
 
 ---
 
